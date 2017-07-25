@@ -1,8 +1,9 @@
 * {
   background-image: url('https://i.ytimg.com/vi/calTTIAt8s0/maxresdefault.jpg');
+  layout: relative;
 }
 
 img {
-  border: 5px solid #FFF;
+  border: 5px solid #000;
   
 }
